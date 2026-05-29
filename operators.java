@@ -12,6 +12,18 @@ public class operators {
         System.out.println(substraction + " = substraction");
         System.out.println(multiplicstion + " = multiplication");
         System.out.println(division + " = division");
+
+        // Relational 
+        // operator
+         
+        int Firstnumber=23;
+        int Secondnumber=12;
+        System.out.println(Firstnumber==Secondnumber);
+        System.out.println(Firstnumber>=Secondnumber);
+        System.out.println(Firstnumber<Secondnumber);
+        System.out.println(Firstnumber<Secondnumber);
+        System.out.println(Firstnumber<=Secondnumber);
+        System.out.println(Firstnumber!=Secondnumber);
     }
     
 }
