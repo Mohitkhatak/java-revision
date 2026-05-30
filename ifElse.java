@@ -16,6 +16,8 @@ public class ifElse {
         // else 
         //     System.out.println("b is bigger than a");
 
+        // TERNARY OPERATOR :=
+
         max=a > b ? a > c ? a : c : b > c ? b : c;
 
         System.out.println("value of max"+ max);
