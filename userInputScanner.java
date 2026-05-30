@@ -11,6 +11,5 @@ public class userInputScanner {
         else
             System.out.println("you are mature");
 
-        
     }
 }
