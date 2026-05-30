@@ -30,7 +30,7 @@ public class switchc {
                 
                 break;
             case 7:
-                System.out.println("satur");
+                System.out.println("saturday");
                 
                 break;
              
