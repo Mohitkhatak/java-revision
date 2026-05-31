@@ -17,11 +17,26 @@ public class basicOfarrays {
     // System.out.println(age.length);
 
 
-    int age[]={5,78,94,67,25,34,749,65,5,58};
+    // int age[]={5,78,94,67,25,34,749,65,5,58};
     
-    System.out.println(age[5]);
-    System.out.println(age[9]);
-    System.out.println(age.length);
+    // System.out.println(age[5]);
+    // System.out.println(age[9]);
+    // System.out.println(age.length);
+    String names[]={"mohit","khushi","chahat","aakash","anurag"};
+
+    // System.out.println(names.length);
+    // System.out.println(names[4]);
+    for (int i = 0; i < names.length; i++) {
+        System.out.println("name of student "+names[i]); 
+
+    
+
+
+        
+    }for (String name : names) {
+        System.out.println("for each "  + name);
+            
+    }
 
     }
 }       
