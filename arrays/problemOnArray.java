@@ -4,7 +4,7 @@ public class problemOnArray {
     public static void main(String[] args) {
         int numbers[]={12,5,8152,512,54,68,8,1,6,7,9,565,};
 
-        // For the sum of array
+// For the sum of array
         int sum=0;
         
         for (int number : numbers) {
@@ -13,7 +13,7 @@ public class problemOnArray {
          System.out.println("sum is "+ sum);
 
 
-        //  For the minimum number from the array
+//  For the minimum number from the array
 
 
 
@@ -26,7 +26,7 @@ public class problemOnArray {
         }
         System.out.println("minimum number is " + min);
 
-        //  For the Maximum number from the array
+//  For the Maximum number from the array
          int max=Integer.MIN_VALUE;
 
         for (int number : numbers) {
