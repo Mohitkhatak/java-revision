@@ -16,7 +16,7 @@ public class learnMath {
         System.out.println(Math.floor(5.7));
         System.out.println(Math.ceil(7.8));
         System.out.println(Math.round(7.8));
-        System.out.println(Math.round(7.4));
+        System.out.println(Math.round(7.4   ));
 
 
        
