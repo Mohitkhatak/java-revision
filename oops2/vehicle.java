@@ -5,6 +5,9 @@ public class vehicle {
     String name;
 
     String model;
+    vehicle(){
+        System.out.println("instance of vehicle");
+    }
 
     void start(){
         System.out.println("vehicle is start");
