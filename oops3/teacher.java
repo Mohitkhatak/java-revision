@@ -3,7 +3,8 @@ package oops3;
 public class teacher {
     public int teachingclass;
      private int id;
-     public String Degree;//default or package private
+    String Degree;//default or package private  and can be acces into same package not in another package
+    protected int studentCount;
 
 
      public static void main(String[] args) {
